@@ -2,8 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//aeiou.now//Annual holiday calendar//EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:China 2026
-X-WR-CALDESC:China has 7 public holidays in 2026.
+X-WR-CALNAME:China
+X-WR-CALDESC:China has 7 public holidays in 2026. China has 7 public holida
+ ys in 2027. China has 7 public holidays in 2028.
 REFRESH-INTERVAL;VALUE=DURATION:P1W
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
