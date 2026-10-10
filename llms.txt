@@ -1,0 +1,161 @@
+# aeiou.now
+
+> See how the same everyday topic is lived across countries, cities, and households—with dates, sources, and differences kept visible.
+
+aeiou.now starts with two questions: what is this thing, and what happens to it in different places? Read the dates and rules first, then compare local practice, sources, and experiences from other people.
+
+## Site navigation
+
+- [Home](https://en.aeiou.now/)
+- [Hot topics](https://en.aeiou.now/topics/today/)
+- [Nearby](https://en.aeiou.now/topics/nearby/)
+- [Events](https://en.aeiou.now/topics/events/)
+- [Rankings 24 hours](https://en.aeiou.now/rankings/24h/)
+- [Rankings 72 hours](https://en.aeiou.now/rankings/72h/)
+- [Rankings 7 days](https://en.aeiou.now/rankings/7d/)
+- [Rankings 1 month](https://en.aeiou.now/rankings/1m/)
+- [Rankings 3 months](https://en.aeiou.now/rankings/3m/)
+- [Rankings 1 year](https://en.aeiou.now/rankings/1y/)
+- [World Questions](https://en.aeiou.now/questions/)
+- [About](https://en.aeiou.now/about/)
+- [sitemap.xml](https://en.aeiou.now/sitemap.xml)
+
+## Topic
+
+- [Valentine's Day](https://en.aeiou.now/topic/affection-and-reciprocity/): There is more than one day for showing affection, and they do not fall together: Japan has women giving chocolate on 14 February and a return gift on 14 March, Taiwan keeps both 14 February and the lunar Qixi, Brazil places it on 12 June, India stretches it into a week, and the United States keeps it to a single day.
+- [Cross-border Q&A](https://en.aeiou.now/topic/ask-the-world/): Wondering how people in Taiwan, Japan, the United States, India, Indonesia, or Brazil study, shop, celebrate, or handle an ordinary errand?
+- [School Start Dates](https://en.aeiou.now/topic/back-to-school/): There is no single back-to-school date: Japan's school year runs from 1 April to 31 March, Taiwan's administrative year starts on 1 August while pupils usually return in early September, and mainland China sets the autumn start through local calendars in late August or early September.
+- [Beer Festivals](https://en.aeiou.now/topic/beer-festivals/): The same German festival, exported, and the decisive difference is where the state stands.
+- [Birthdays and Blessings](https://en.aeiou.now/topic/birthdays-and-blessings/): Birthdays are more than cake: Taiwan uses both completed age and traditional age and often marks longevity from sixty; Japan legally moved away from kazoedoshi while retaining milestones such as kanreki; in the U.S., ages 16, 18, and 21 unlock different rights.
+- [Family Care and Generations](https://en.aeiou.now/topic/caregiving-across-generations/): Family care is not only a question of living together: it is also about who is legally responsible and where support can be requested.
+- [Carnival](https://en.aeiou.now/topic/carnival/): Carnival is not a public holiday in Brazil.
+- [Children's Day](https://en.aeiou.now/topic/childrens-day/): Six places put Children's Day on six different dates, spread from April to November, and 'who gets the day off' differs too: Taiwan closes for everyone, mainland China gives the day off only to children under fourteen, Japan writes thanking the mother into the statutory purpose, Indonesia's is a presidential-decree observance with a ministry theme each year, Brazil's shares its date with the country's patron saint, and India's is tied to Nehru's birthday.
+- [The Christian calendar’s other days](https://en.aeiou.now/topic/christian-calendar-days/): Beyond Christmas and Easter, the same Easter computus produces a whole series of days: Ash Wednesday, Good Friday, Ascension, Pentecost, Corpus Christi.
+- [Christmas](https://en.aeiou.now/topic/christmas/): December 25 is not the same thing in seven places.
+- [Coming-of-Age Rites](https://en.aeiou.now/topic/coming-of-age/): Legal adulthood and a coming-of-age ceremony are not the same line.
+- [Compulsory education: from what age to what age — and whose duty is it](https://en.aeiou.now/topic/compulsory-education/): Taiwan's Compulsory Education Act sets six to fifteen, nine years, and leaves compulsory enrolment itself to a separate statute.
+- [Diwali Dates and Holidays](https://en.aeiou.now/topic/diwali/): Diwali is a five-day season, not a single day.
+- [Dragon Boat Festival](https://en.aeiou.now/topic/dragon-boat-festival/): The fifth day of the fifth lunar month is a public holiday in both Taiwan and mainland China, while Japan moved the same 'fifth of the fifth' onto the Gregorian calendar and turned it into a statutory children's day.
+- [Easter](https://en.aeiou.now/topic/easter/): Easter's institutional position differs sharply across these four places, and not in the direction most people expect: Muslim-majority Indonesia lists four Christian observances as national holidays — Good Friday, Easter, Ascension and Christmas; the Christian-majority United States lists none of them as federal holidays except Christmas; Brazil hands the decision on religious holidays to municipal councils with a cap of four; and India's national list carries Good Friday rather than Easter Sunday.
+- [Eid al-Adha](https://en.aeiou.now/topic/eid-al-adha/): One date in the Islamic calendar, four different institutional treatments: Indonesia makes it a national holiday and adds joint leave; India lists it among national holidays; the United States has no federal holiday but New York City public schools close; and in Brazil it is not even a statutory commemorative date yet — a Senate committee only approved adding Islamic festivals to the national calendar in 2024.
+- [Days for Elders and Grandparents](https://en.aeiou.now/topic/elders-day/): All seven markets set aside a day for their oldest members, and no two of them put it in the same place on the calendar.
+- [Emancipation Days](https://en.aeiou.now/topic/emancipation-and-abolition/): The two largest slaveholding societies in the Americas both waited until the 2020s to put abolition on the national holiday calendar — the United States in 2021, Brazil in 2023 — more than a century and a half after slavery ended in law.
+- [University entrance exams: what you take, who runs it, and what else counts](https://en.aeiou.now/topic/entrance-exams/): Taiwan sits its Scholastic Aptitude Test and Subject-Specific Test (both run by the CEEC) across three tracks with distinct rules: Application Admission caps the exam at half the final score, weighing the rest on portfolio and interview; Placement Admission ranks purely by exam score; and Star Recommendation goes on in-school class rank alone, no exam-based placement needed.
+- [Environment Days](https://en.aeiou.now/topic/environment-days/): Environment days almost never come with a day off.
+- [Equinoxes and Solstices](https://en.aeiou.now/topic/equinox-and-seasonal-turns/): These are the only holidays whose date nobody chose.
+- [University Entrance Exams](https://en.aeiou.now/topic/exam-season/): Every country here runs a national test that decides university places, but how tightly that decision is compressed varies enormously.
+- [Farewells and Funerals](https://en.aeiou.now/topic/farewells-and-funerals/): Funerals follow two clocks: an administrative clock and a family or religious clock.
+- [Father's Day](https://en.aeiou.now/topic/fathers-day/): Father's Day sits on three different dates across four places, and the origins have nothing in common: Taiwan picked 8 August because 'eight-eight' sounds like the word for dad, the United States took nearly sixty years to legislate it in 1972, and Brazil's was invented in 1953 by an advertising man to fill a gap in the second half of the retail year.
+- [Founders and National Leaders](https://en.aeiou.now/topic/founders-and-national-leaders/): In federal law the third Monday in February is still called Washington's Birthday.
+- [Ghosts, Ancestors, and Remembrance](https://en.aeiou.now/topic/ghosts-ancestors-and-remembrance/): It does not assume that every household or community follows the same practice.
+- [Graduation Season](https://en.aeiou.now/topic/graduation-season/): Graduation does not fall in one universal month: Japan graduates in March before the April school year, Taiwan and mainland China mostly in June–July, US districts in May–June, India around March–May alongside board-exam results, Indonesia in May–June before its July school year, and Brazil in December.
+- [Halloween](https://en.aeiou.now/topic/halloween/): No country on this board has made Halloween on 31 October a public holiday.
+- [Harvest and Gratitude](https://en.aeiou.now/topic/harvest-and-gratitude/): Whether the harvest becomes a holiday, and who gets to define it, is answered five different ways: the United States built a federal holiday around the family table; India's Pongal is timed by the Tamil calendar and the sun's entry into Capricorn, and the pot of rice is the rite itself; Brazil ties it to three saints' days in June; mainland China created a farmers' festival by State Council approval in 2018; and Japan rewrote a prewar imperial harvest rite into a national day for thanking labour.
+- [Health coverage: who's required to have it, and who actually pays](https://en.aeiou.now/topic/health-coverage/): Taiwan's National Health Insurance Act declares enrollment mandatory in its very first article, launched in March 1995, with premiums split employer 60%, insured person 30%, government 10%.
+- [Homecoming and Reunion](https://en.aeiou.now/topic/homecoming-and-reunion/): Homecoming is not one holiday pattern: Taiwan's main wave is Lunar New Year; Japan has year-end/New Year and Obon; China's roughly forty-day chunyun surrounds Spring Festival; and Thanksgiving drives the largest U.S. wave.
+- [Indigenous and Colonial Memory](https://en.aeiou.now/topic/indigenous-and-colonial-memory/): In the United States the second Monday in October is one square on the calendar claimed by two names.
+- [Other days of the Islamic calendar](https://en.aeiou.now/topic/islamic-calendar-days/): Beyond Ramadan and the two Eids, the Islamic calendar carries several more days: the New Year on 1 Muharram, Ashura on 10 Muharram, the Prophet's birthday, and Isra Mi'raj.
+- [Days of the Jewish calendar](https://en.aeiou.now/topic/jewish-calendar-days/): Rosh Hashanah, Yom Kippur, Passover and Hanukkah are national holidays nowhere — not even in the United States, home to the largest Jewish community outside Israel, where the holidays for federal employees are fixed by statute at 5 U.S.C. 6103 and contain exactly one religious festival, Christmas.
+- [Labour Day Dates by Country](https://en.aeiou.now/topic/labour-day/): Labour Day usually falls on 1 May, but the date and the time off depend on the country: the United States observes Labor Day on the first Monday of September, Japan works on 1 May between its Golden Week holidays, and India leaves 1 May to state and institutional calendars.
+- [Lantern Festival](https://en.aeiou.now/topic/lantern-festival/): The same lunar date is three different scenes in Taiwan alone — eating tangyuan and walking through a lantern display, releasing sky lanterns in Pingxi, or standing inside a wall of exploding fireworks in Yanshui — while in mainland China it is a working day, not one of the days off for all citizens.
+- [Long Holiday Weeks](https://en.aeiou.now/topic/long-holiday-weeks/): Seven places all end up with a run of consecutive days off, and not one of them builds it the same way.
+- [Mid-Autumn and Moon Viewing](https://en.aeiou.now/topic/mid-autumn-and-moon-viewing/): Around the same full moon, four different observances: Taiwan and mainland China take the day off, eat mooncakes, and gather as a family; the Korean-ethnic community of Yanbian in China keeps it as Chuseok, where tomb-sweeping comes first; and Japan does not close at all, treating it as an astronomical and seasonal night — where the national observatory is explicit that the 'harvest moon' is often not that night's full moon.
+- [Conscripted, registered, or merely obliged on paper](https://en.aeiou.now/topic/military-service/): Article 1 of Taiwan's Military Service Act is a single sentence — every male citizen has the duty to serve — and Article 16 sets active conscript service at one year.
+- [Minimum Wage by Country](https://en.aeiou.now/topic/minimum-wage/): Minimum wage is set nationally in some places and regionally in others: China uses provincial tiers, the United States combines a federal floor with state rates, Japan has 47 prefectural rates, and Indonesia sets annual provincial UMP figures.
+- [Mother's Day](https://en.aeiou.now/topic/mothers-day/): Four places keep Mother's Day on the second Sunday of May; Indonesia keeps it on 22 December — and there it is not a day for thanking mothers but a political commemoration of the first Indonesian Women's Congress of 1928.
+- [Moving Home and Housewarming](https://en.aeiou.now/topic/moving-home/): Moving home has two separate questions: whether an address must be registered with one authority, and how a household marks the new threshold.
+- [National Days](https://en.aeiou.now/topic/national-days/): The seven national days commemorate different kinds of events: the United States, Brazil, Indonesia and India mark the moment of leaving colonial rule or declaring independence; mainland China marks the founding of a state; Taiwan marks an uprising that ended an empire; and Japan's National Foundation Day has no corresponding dated historical event at all, being set on a legendary enthronement.
+- [New Year](https://en.aeiou.now/topic/new-year/): 'New Year' is not one day. Taiwan and mainland China keep the first day of the first lunar month; Japan, the United States, Brazil and Indonesia take 1 January; and India's national holiday list contains no 1 January at all — there the new year falls in March or April and carries a different name in each state.
+- [Newborns and the First Month](https://en.aeiou.now/topic/newborn-and-full-moon/): Newborn life follows two clocks: birth registration and family celebration.
+- [Official Languages by Country: Who Decides?](https://en.aeiou.now/topic/official-languages/): Which language is official depends on where the rule lives: Indonesia and Brazil name a state language in their constitutions, India sets the Union's official language in its constitution, China promotes Putonghua through an education clause without naming an "official language", and the United States designated English by executive order in 2025.
+- [How many paid leave days, how overtime is paid — what differs across seven countries](https://en.aeiou.now/topic/paid-leave-and-overtime/): Taiwan's Labor Standards Act Article 38 tiers annual leave into six bands: 3 days at six months, 7 at one year, 10 at two years, 14 a year from three to five years, 15 a year from five to ten years, and one extra day per year after ten, capped at 30 — and unused days aren't lost, since Article 38(4) requires the employer to pay wages for them.
+- [Maternity, Paternity and Parental Leave](https://en.aeiou.now/topic/parental-leave/): Taiwan's Labour Standards Act gives eight weeks of maternity leave, fully paid after six months of service.
+- [Pet Preparedness and Disaster Planning](https://en.aeiou.now/topic/pet-preparedness/): Pet preparedness is more than buying extra food.
+- [Pets and Family Life](https://en.aeiou.now/topic/pets-and-family/): Calling an animal family does not make it a person in law.
+- [Proposals and Engagements](https://en.aeiou.now/topic/proposals-and-engagements/): An engagement is not a marriage. Taiwan sets engagement at 17 and marriage at 18, and a promise to marry cannot be forced; Indonesia sets the minimum marriage age at 19 for both sexes, with lamaran serving first as public family recognition.
+- [Ramadan and Eid al-Fitr](https://en.aeiou.now/topic/ramadan-and-eid/): Taiwan does not make Eid al-Fitr a statutory holiday; in Indonesia, the first day of Ramadan is announced by the Ministry of Religious Affairs at the preceding night's sidang isbat, while the Eid break is scheduled separately around 1 Shawwal.
+- [Religion and the state: how far apart a constitution puts them](https://en.aeiou.now/topic/religion-and-the-state/): The very first line of Article 29 of Indonesia's constitution is that the state is based upon belief in the One and Only God.
+- [Rental deposits and landlord power: how many months, and how easily they can end it](https://en.aeiou.now/topic/renting-a-home/): Taiwan's Housing Rental Market Development and Management Act caps the deposit at two months' rent (Article 7) and lists five grounds on which a landlord may end the lease early (Article 10) — four require thirty days' written notice, reclaiming the unit for reconstruction requires three months'.
+- [How many days to register a residence permit — and does a new address or a new job have to be reported?](https://en.aeiou.now/topic/residency-and-visas/): Taiwan's Alien Resident Certificate, issued by the National Immigration Agency, must be applied for within 30 days of entry, and an address change reported within the same 30-day window — miss it and the Immigration Act sets a fine of NT$2,000–10,000.
+- [Shopping Festivals](https://en.aeiou.now/topic/shopping-festivals/): Shopping festivals are the one kind of festival the retail trade invented for itself and the state had to regulate afterwards.
+- [Tanabata and Qixi](https://en.aeiou.now/topic/tanabata-and-qixi/): One legend about a weaver and a herdsman, one date in the seventh lunar month, and three societies that made three different festivals out of it.
+- [Teachers' Day](https://en.aeiou.now/topic/teachers-day/): In 2027, the dates on this page are India on 5 September, mainland China on 10 September, Taiwan on 28 September, Brazil on 15 October, Indonesia on 25 November, Singapore on 3 September (estimated from the school calendar), and the United States' Teacher Appreciation Week on 3–7 May, with local district dates varying.
+- [What voting asks of you, country by country](https://en.aeiou.now/topic/voting-and-elections/): Article 14 of Brazil's constitution makes voting a duty for citizens between eighteen and seventy, and you must account for missing it.
+- [War dead and veterans](https://en.aeiou.now/topic/war-dead-and-veterans/): The United States splits the dead from the survivors into two separate federal holidays: Memorial Day in May for those killed, Veterans Day on 11 November for those who came home.
+- [Weddings and Marriage Customs](https://en.aeiou.now/topic/weddings-and-customs/): The legal doorway to marriage differs by place.
+- [International Women's Day](https://en.aeiou.now/topic/womens-day/): March 8 falls on the same day in all seven places compared here, and is treated completely differently by each legal system.
+- [Year-End Bonus and the Thirteenth Salary](https://en.aeiou.now/topic/year-end-bonus/): Taiwan's year-end bonus rests on Article 29 of the Labor Standards Act, which applies only when the business closes its year with a surplus — a condition, with no deadline and no penalty, so the amount is the company's call.
+
+## Public holidays
+
+- [Brazil public holidays 2026](https://en.aeiou.now/holidays/br/2026/)
+- [Brazil public holidays 2027](https://en.aeiou.now/holidays/br/2027/)
+- [Brazil public holidays 2028](https://en.aeiou.now/holidays/br/2028/)
+- [China public holidays 2026](https://en.aeiou.now/holidays/cn/2026/)
+- [China public holidays 2027](https://en.aeiou.now/holidays/cn/2027/)
+- [China public holidays 2028](https://en.aeiou.now/holidays/cn/2028/)
+- [Indonesia public holidays 2026](https://en.aeiou.now/holidays/id/2026/)
+- [Indonesia public holidays 2027](https://en.aeiou.now/holidays/id/2027/)
+- [Indonesia public holidays 2028](https://en.aeiou.now/holidays/id/2028/)
+- [India public holidays 2026](https://en.aeiou.now/holidays/in/2026/)
+- [India public holidays 2027](https://en.aeiou.now/holidays/in/2027/)
+- [India public holidays 2028](https://en.aeiou.now/holidays/in/2028/)
+- [Japan public holidays 2026](https://en.aeiou.now/holidays/jp/2026/)
+- [Japan public holidays 2027](https://en.aeiou.now/holidays/jp/2027/)
+- [Japan public holidays 2028](https://en.aeiou.now/holidays/jp/2028/)
+- [South Korea public holidays 2026](https://en.aeiou.now/holidays/kr/2026/)
+- [South Korea public holidays 2027](https://en.aeiou.now/holidays/kr/2027/)
+- [South Korea public holidays 2028](https://en.aeiou.now/holidays/kr/2028/)
+- [Malaysia public holidays 2026](https://en.aeiou.now/holidays/my/2026/)
+- [Malaysia public holidays 2027](https://en.aeiou.now/holidays/my/2027/)
+- [Malaysia public holidays 2028](https://en.aeiou.now/holidays/my/2028/)
+- [Philippines public holidays 2026](https://en.aeiou.now/holidays/ph/2026/)
+- [Philippines public holidays 2027](https://en.aeiou.now/holidays/ph/2027/)
+- [Philippines public holidays 2028](https://en.aeiou.now/holidays/ph/2028/)
+- [Singapore public holidays 2026](https://en.aeiou.now/holidays/sg/2026/)
+- [Singapore public holidays 2027](https://en.aeiou.now/holidays/sg/2027/)
+- [Singapore public holidays 2028](https://en.aeiou.now/holidays/sg/2028/)
+- [Thailand public holidays 2026](https://en.aeiou.now/holidays/th/2026/)
+- [Thailand public holidays 2027](https://en.aeiou.now/holidays/th/2027/)
+- [Thailand public holidays 2028](https://en.aeiou.now/holidays/th/2028/)
+- [Taiwan public holidays 2026](https://en.aeiou.now/holidays/tw/2026/)
+- [Taiwan public holidays 2027](https://en.aeiou.now/holidays/tw/2027/)
+- [Taiwan public holidays 2028](https://en.aeiou.now/holidays/tw/2028/)
+- [United States public holidays 2026](https://en.aeiou.now/holidays/us/2026/)
+- [United States public holidays 2027](https://en.aeiou.now/holidays/us/2027/)
+- [United States public holidays 2028](https://en.aeiou.now/holidays/us/2028/)
+- [Vietnam public holidays 2026](https://en.aeiou.now/holidays/vn/2026/)
+- [Vietnam public holidays 2027](https://en.aeiou.now/holidays/vn/2027/)
+- [Vietnam public holidays 2028](https://en.aeiou.now/holidays/vn/2028/)
+
+## World Questions
+
+- [Valentine's Day](https://en.aeiou.now/questions/affection-and-reciprocity/)
+- [School Start Dates](https://en.aeiou.now/questions/back-to-school/)
+- [Birthdays and Blessings](https://en.aeiou.now/questions/birthdays-and-blessings/)
+- [Children's Day](https://en.aeiou.now/questions/childrens-day/)
+- [The Christian calendar’s other days](https://en.aeiou.now/questions/christian-calendar-days/)
+- [Christmas](https://en.aeiou.now/questions/christmas/)
+- [Diwali Dates and Holidays](https://en.aeiou.now/questions/diwali/)
+- [Easter](https://en.aeiou.now/questions/easter/)
+- [Emancipation Days](https://en.aeiou.now/questions/emancipation-and-abolition/)
+- [Equinoxes and Solstices](https://en.aeiou.now/questions/equinox-and-seasonal-turns/)
+- [University Entrance Exams](https://en.aeiou.now/questions/exam-season/)
+- [Father's Day](https://en.aeiou.now/questions/fathers-day/)
+- [Ghosts, Ancestors, and Remembrance](https://en.aeiou.now/questions/ghosts-ancestors-and-remembrance/)
+- [Harvest and Gratitude](https://en.aeiou.now/questions/harvest-and-gratitude/)
+- [Homecoming and Reunion](https://en.aeiou.now/questions/homecoming-and-reunion/)
+- [Other days of the Islamic calendar](https://en.aeiou.now/questions/islamic-calendar-days/)
+- [Labour Day Dates by Country](https://en.aeiou.now/questions/labour-day/)
+- [Lantern Festival](https://en.aeiou.now/questions/lantern-festival/)
+- [Mid-Autumn and Moon Viewing](https://en.aeiou.now/questions/mid-autumn-and-moon-viewing/)
+- [Mother's Day](https://en.aeiou.now/questions/mothers-day/)
+- [National Days](https://en.aeiou.now/questions/national-days/)
+- [New Year](https://en.aeiou.now/questions/new-year/)
+- [Teachers' Day](https://en.aeiou.now/questions/teachers-day/)
+- [International Women's Day](https://en.aeiou.now/questions/womens-day/)
+- [Year-End Bonus and the Thirteenth Salary](https://en.aeiou.now/questions/year-end-bonus/)
+
+## Optional
+
+- [llms-full.txt](https://en.aeiou.now/llms-full.txt)
