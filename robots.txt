@@ -8,3 +8,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 Sitemap: https://en.aeiou.now/sitemap.xml
+Sitemap: https://en.aeiou.now/sitemap-retired.xml
