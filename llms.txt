@@ -31,10 +31,10 @@ aeiou.now starts with two questions: what is this thing, and what happens to it 
 - [Carnival](https://en.aeiou.now/topic/carnival/): Carnival is not a public holiday in Brazil.
 - [Children's Day](https://en.aeiou.now/topic/childrens-day/): Six places put Children's Day on six different dates, spread from April to November, and 'who gets the day off' differs too: Taiwan closes for everyone, mainland China gives the day off only to children under fourteen, Japan writes thanking the mother into the statutory purpose, Indonesia's is a presidential-decree observance with a ministry theme each year, Brazil's shares its date with the country's patron saint, and India's is tied to Nehru's birthday.
 - [The Christian calendar’s other days](https://en.aeiou.now/topic/christian-calendar-days/): Beyond Christmas and Easter, the same Easter computus produces a whole series of days: Ash Wednesday, Good Friday, Ascension, Pentecost, Corpus Christi.
-- [Christmas](https://en.aeiou.now/topic/christmas/): December 25 is not the same thing in seven places.
+- [Is Christmas a Public Holiday? December 25 in Seven Places](https://en.aeiou.now/topic/christmas/): December 25, 2026 is a Friday, and whether it is a day off depends on where you are.
 - [Coming-of-Age Rites](https://en.aeiou.now/topic/coming-of-age/): Legal adulthood and a coming-of-age ceremony are not the same line.
 - [Compulsory education: from what age to what age — and whose duty is it](https://en.aeiou.now/topic/compulsory-education/): Taiwan's Compulsory Education Act sets six to fifteen, nine years, and leaves compulsory enrolment itself to a separate statute.
-- [Diwali Dates and Holidays](https://en.aeiou.now/topic/diwali/): Diwali is a five-day season, not a single day.
+- [Diwali Dates and Holidays](https://en.aeiou.now/topic/diwali/): In 2026 the main day of Diwali, Lakshmi–Ganesha Puja, fell on Sunday 8 November.
 - [Dragon Boat Festival](https://en.aeiou.now/topic/dragon-boat-festival/): The fifth day of the fifth lunar month is a public holiday in both Taiwan and mainland China, while Japan moved the same 'fifth of the fifth' onto the Gregorian calendar and turned it into a statutory children's day.
 - [Easter](https://en.aeiou.now/topic/easter/): Easter's institutional position differs sharply across these four places, and not in the direction most people expect: Muslim-majority Indonesia lists four Christian observances as national holidays — Good Friday, Easter, Ascension and Christmas; the Christian-majority United States lists none of them as federal holidays except Christmas; Brazil hands the decision on religious holidays to municipal councils with a cap of four; and India's national list carries Good Friday rather than Easter Sunday.
 - [Eid al-Adha](https://en.aeiou.now/topic/eid-al-adha/): One date in the Islamic calendar, four different institutional treatments: Indonesia makes it a national holiday and adds joint leave; India lists it among national holidays; the United States has no federal holiday but New York City public schools close; and in Brazil it is not even a statutory commemorative date yet — a Senate committee only approved adding Islamic festivals to the national calendar in 2024.
@@ -135,7 +135,7 @@ aeiou.now starts with two questions: what is this thing, and what happens to it 
 - [Birthdays and Blessings](https://en.aeiou.now/questions/birthdays-and-blessings/)
 - [Children's Day](https://en.aeiou.now/questions/childrens-day/)
 - [The Christian calendar’s other days](https://en.aeiou.now/questions/christian-calendar-days/)
-- [Christmas](https://en.aeiou.now/questions/christmas/)
+- [Is Christmas a Public Holiday? December 25 in Seven Places](https://en.aeiou.now/questions/christmas/)
 - [Diwali Dates and Holidays](https://en.aeiou.now/questions/diwali/)
 - [Easter](https://en.aeiou.now/questions/easter/)
 - [Emancipation Days](https://en.aeiou.now/questions/emancipation-and-abolition/)
